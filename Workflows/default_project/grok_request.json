@@ -1,0 +1,1112 @@
+[
+  {
+    "ts": "2026-03-08T22:13:00",
+    "kind": "image_to_video_upload_image",
+    "request": {
+      "endpoint": "https://grok.com/rest/app-chat/upload-file",
+      "payload": {
+        "fileName": "ChatGPT Image 22_36_06 30 thg 1, 2026.png",
+        "fileMimeType": "image/png",
+        "fileSource": "SELF_UPLOAD_FILE_SOURCE",
+        "contentLength": 2530236
+      },
+      "headers": {
+        "x-statsig-id": "ZTpUeXBlRXJyb3I6IENhbm5vdCByZWFkIHByb3BlcnRpZXMgb2YgdW5kZWZpbmVkIChyZWFkaW5nICdjaGlsZE5vZGVzJyk="
+      }
+    },
+    "response": {
+      "status": 200,
+      "error": null,
+      "fileMetadataId": "9de846ac-7e00-48d3-9ba2-de2de92c078b",
+      "fileUri": "users/38ec0711-58ae-443a-a14c-9ebac8565694/9de846ac-7e00-48d3-9ba2-de2de92c078b/content",
+      "parentPostId": "9de846ac-7e00-48d3-9ba2-de2de92c078b",
+      "data": {
+        "fileMetadataId": "9de846ac-7e00-48d3-9ba2-de2de92c078b",
+        "fileMimeType": "image/png",
+        "fileName": "ChatGPT Image 22_36_06 30 thg 1, 2026.png",
+        "fileUri": "users/38ec0711-58ae-443a-a14c-9ebac8565694/9de846ac-7e00-48d3-9ba2-de2de92c078b/content",
+        "parsedFileUri": "",
+        "createTime": "2026-03-08T15:12:59.875569Z",
+        "fileSource": "SELF_UPLOAD_FILE_SOURCE"
+      }
+    }
+  },
+  {
+    "ts": "2026-03-08T22:13:01",
+    "kind": "image_to_video_create_post",
+    "jobIndex": 0,
+    "request": {
+      "endpoint": "https://grok.com/rest/media/post/create",
+      "payload": {
+        "mediaType": "MEDIA_POST_TYPE_IMAGE",
+        "mediaUrl": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/9de846ac-7e00-48d3-9ba2-de2de92c078b/content"
+      },
+      "headers": {
+        "x-statsig-id": "ZTpUeXBlRXJyb3I6IENhbm5vdCByZWFkIHByb3BlcnRpZXMgb2YgdW5kZWZpbmVkIChyZWFkaW5nICdjaGlsZE5vZGVzJyk="
+      }
+    },
+    "response": {
+      "status": 200,
+      "error": null,
+      "postId": "9de846ac-7e00-48d3-9ba2-de2de92c078b",
+      "mediaUrl": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/9de846ac-7e00-48d3-9ba2-de2de92c078b/content",
+      "data": {
+        "post": {
+          "id": "9de846ac-7e00-48d3-9ba2-de2de92c078b",
+          "userId": "38ec0711-58ae-443a-a14c-9ebac8565694",
+          "createTime": "2026-03-08T15:13:00.350328376Z",
+          "prompt": "",
+          "mediaType": "MEDIA_POST_TYPE_IMAGE",
+          "mediaUrl": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/9de846ac-7e00-48d3-9ba2-de2de92c078b/content",
+          "mimeType": "image/png",
+          "audioUrls": [],
+          "childPosts": [],
+          "originalPrompt": "",
+          "resolution": {
+            "width": 1024,
+            "height": 1536
+          },
+          "availableActions": [],
+          "images": [
+            {
+              "id": "9de846ac-7e00-48d3-9ba2-de2de92c078b",
+              "userId": "38ec0711-58ae-443a-a14c-9ebac8565694",
+              "createTime": "2026-03-08T15:13:00.350328376Z",
+              "prompt": "",
+              "mediaType": "MEDIA_POST_TYPE_IMAGE",
+              "mediaUrl": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/9de846ac-7e00-48d3-9ba2-de2de92c078b/content",
+              "mimeType": "image/png",
+              "audioUrls": [],
+              "childPosts": [],
+              "originalPrompt": "",
+              "resolution": {
+                "width": 1024,
+                "height": 1536
+              },
+              "availableActions": [],
+              "images": [],
+              "videos": [],
+              "inputMediaItems": []
+            }
+          ],
+          "videos": [],
+          "inputMediaItems": []
+        }
+      }
+    }
+  },
+  {
+    "ts": "2026-03-08T22:13:42",
+    "kind": "image_to_video_upload_image",
+    "request": {
+      "endpoint": "https://grok.com/rest/app-chat/upload-file",
+      "payload": {
+        "fileName": "ChatGPT Image 22_36_06 30 thg 1, 2026.png",
+        "fileMimeType": "image/png",
+        "fileSource": "SELF_UPLOAD_FILE_SOURCE",
+        "contentLength": 2530236
+      },
+      "headers": {
+        "x-statsig-id": "ZTpUeXBlRXJyb3I6IENhbm5vdCByZWFkIHByb3BlcnRpZXMgb2YgdW5kZWZpbmVkIChyZWFkaW5nICdjaGlsZE5vZGVzJyk="
+      }
+    },
+    "response": {
+      "status": 200,
+      "error": null,
+      "fileMetadataId": "fb8003d1-64ca-4555-91be-88dfb09c59c7",
+      "fileUri": "users/38ec0711-58ae-443a-a14c-9ebac8565694/fb8003d1-64ca-4555-91be-88dfb09c59c7/content",
+      "parentPostId": "fb8003d1-64ca-4555-91be-88dfb09c59c7",
+      "data": {
+        "fileMetadataId": "fb8003d1-64ca-4555-91be-88dfb09c59c7",
+        "fileMimeType": "image/png",
+        "fileName": "ChatGPT Image 22_36_06 30 thg 1, 2026.png",
+        "fileUri": "users/38ec0711-58ae-443a-a14c-9ebac8565694/fb8003d1-64ca-4555-91be-88dfb09c59c7/content",
+        "parsedFileUri": "",
+        "createTime": "2026-03-08T15:13:41.241462Z",
+        "fileSource": "SELF_UPLOAD_FILE_SOURCE"
+      }
+    }
+  },
+  {
+    "ts": "2026-03-08T22:13:42",
+    "kind": "image_to_video_create_post",
+    "jobIndex": 0,
+    "request": {
+      "endpoint": "https://grok.com/rest/media/post/create",
+      "payload": {
+        "mediaType": "MEDIA_POST_TYPE_IMAGE",
+        "mediaUrl": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/fb8003d1-64ca-4555-91be-88dfb09c59c7/content"
+      },
+      "headers": {
+        "x-statsig-id": "ZTpUeXBlRXJyb3I6IENhbm5vdCByZWFkIHByb3BlcnRpZXMgb2YgdW5kZWZpbmVkIChyZWFkaW5nICdjaGlsZE5vZGVzJyk="
+      }
+    },
+    "response": {
+      "status": 200,
+      "error": null,
+      "postId": "fb8003d1-64ca-4555-91be-88dfb09c59c7",
+      "mediaUrl": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/fb8003d1-64ca-4555-91be-88dfb09c59c7/content",
+      "data": {
+        "post": {
+          "id": "fb8003d1-64ca-4555-91be-88dfb09c59c7",
+          "userId": "38ec0711-58ae-443a-a14c-9ebac8565694",
+          "createTime": "2026-03-08T15:13:41.748324972Z",
+          "prompt": "",
+          "mediaType": "MEDIA_POST_TYPE_IMAGE",
+          "mediaUrl": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/fb8003d1-64ca-4555-91be-88dfb09c59c7/content",
+          "mimeType": "image/png",
+          "audioUrls": [],
+          "childPosts": [],
+          "originalPrompt": "",
+          "resolution": {
+            "width": 1024,
+            "height": 1536
+          },
+          "availableActions": [],
+          "images": [
+            {
+              "id": "fb8003d1-64ca-4555-91be-88dfb09c59c7",
+              "userId": "38ec0711-58ae-443a-a14c-9ebac8565694",
+              "createTime": "2026-03-08T15:13:41.748324972Z",
+              "prompt": "",
+              "mediaType": "MEDIA_POST_TYPE_IMAGE",
+              "mediaUrl": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/fb8003d1-64ca-4555-91be-88dfb09c59c7/content",
+              "mimeType": "image/png",
+              "audioUrls": [],
+              "childPosts": [],
+              "originalPrompt": "",
+              "resolution": {
+                "width": 1024,
+                "height": 1536
+              },
+              "availableActions": [],
+              "images": [],
+              "videos": [],
+              "inputMediaItems": []
+            }
+          ],
+          "videos": [],
+          "inputMediaItems": []
+        }
+      }
+    }
+  },
+  {
+    "ts": "2026-03-08T22:14:04",
+    "kind": "image_to_video_conversation_new",
+    "jobIndex": 0,
+    "prompt": "tạo video nhân vật này trông thật ngầu",
+    "request": {
+      "endpoint": "https://grok.com/rest/app-chat/conversations/new",
+      "temporary": true,
+      "modelName": "grok-3",
+      "message": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/fb8003d1-64ca-4555-91be-88dfb09c59c7/content  tạo video nhân vật này trông thật ngầu",
+      "fileAttachments": [
+        "fb8003d1-64ca-4555-91be-88dfb09c59c7"
+      ],
+      "toolOverrides": {
+        "videoGen": true
+      },
+      "enableSideBySide": true,
+      "responseMetadata": {
+        "experiments": [],
+        "modelConfigOverride": {
+          "modelMap": {
+            "videoGenModelConfig": {
+              "parentPostId": "fb8003d1-64ca-4555-91be-88dfb09c59c7",
+              "aspectRatio": "9:16",
+              "videoLength": 6,
+              "resolutionName": "480p",
+              "isVideoEdit": false
+            }
+          }
+        }
+      }
+    },
+    "response": {
+      "status": 200,
+      "error": null,
+      "lastEvent": {
+        "progress": 100,
+        "videoUrl": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/generated/98a2c9e2-b5af-4920-9458-5a2176c47db0/generated_video.mp4",
+        "videoId": "98a2c9e2-b5af-4920-9458-5a2176c47db0",
+        "parentPostId": "fb8003d1-64ca-4555-91be-88dfb09c59c7",
+        "resolutionName": "480p",
+        "imageReference": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/fb8003d1-64ca-4555-91be-88dfb09c59c7/content?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1c2Vycy8zOGVjMDcxMS01OGFlLTQ0M2EtYTE0Yy05ZWJhYzg1NjU2OTQvZmI4MDAzZDEtNjRjYS00NTU1LTkxYmUtODhkZmIwOWM1OWM3L2NvbnRlbnQiLCJleHAiOjE3NzI5ODM3MjIsImlhdCI6MTc3Mjk4MjgyMn0.D67-bYjV8CVcMyCnQtiPXDKfxiC9TxllNuN3US8SDTo"
+      },
+      "userId": "38ec0711-58ae-443a-a14c-9ebac8565694",
+      "generatedId": "98a2c9e2-b5af-4920-9458-5a2176c47db0",
+      "directVideoUrl": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/generated/98a2c9e2-b5af-4920-9458-5a2176c47db0/generated_video.mp4?cache=1&dl=1",
+      "hdVideoUrlCandidate": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/generated/98a2c9e2-b5af-4920-9458-5a2176c47db0/generated_video_hd.mp4?cache=1&dl=1"
+    }
+  },
+  {
+    "ts": "2026-03-08T22:14:11",
+    "kind": "image_to_video_upscale",
+    "jobIndex": 0,
+    "request": {
+      "endpoint": "https://grok.com/rest/media/video/upscale",
+      "payload": {
+        "videoId": "98a2c9e2-b5af-4920-9458-5a2176c47db0"
+      },
+      "headers": {
+        "x-statsig-id": "ZTpUeXBlRXJyb3I6IENhbm5vdCByZWFkIHByb3BlcnRpZXMgb2YgdW5kZWZpbmVkIChyZWFkaW5nICdjaGlsZE5vZGVzJyk="
+      },
+      "maxRetries": 3
+    },
+    "response": {
+      "status": 200,
+      "error": null,
+      "attempt": 1,
+      "hdMediaUrl": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/generated/98a2c9e2-b5af-4920-9458-5a2176c47db0/generated_video_hd.mp4",
+      "data": {
+        "hdMediaUrl": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/generated/98a2c9e2-b5af-4920-9458-5a2176c47db0/generated_video_hd.mp4"
+      }
+    }
+  },
+  {
+    "ts": "2026-03-08T22:28:41",
+    "kind": "image_to_video_upload_image",
+    "request": {
+      "endpoint": "https://grok.com/rest/app-chat/upload-file",
+      "payload": {
+        "fileName": "001_ChatGPT_Image_22_36_06_30_thg_t_o_video_nh_n_v_t_n_y_tr_ng_t_20260308_221411_678976_last_001.jpg",
+        "fileMimeType": "image/jpeg",
+        "fileSource": "SELF_UPLOAD_FILE_SOURCE",
+        "contentLength": 100152
+      },
+      "headers": {
+        "x-statsig-id": "ZTpUeXBlRXJyb3I6IENhbm5vdCByZWFkIHByb3BlcnRpZXMgb2YgdW5kZWZpbmVkIChyZWFkaW5nICdjaGlsZE5vZGVzJyk="
+      }
+    },
+    "response": {
+      "status": 200,
+      "error": null,
+      "fileMetadataId": "e9a5cc7a-2e2e-471f-9728-c46892f6bec1",
+      "fileUri": "users/38ec0711-58ae-443a-a14c-9ebac8565694/e9a5cc7a-2e2e-471f-9728-c46892f6bec1/content",
+      "parentPostId": "e9a5cc7a-2e2e-471f-9728-c46892f6bec1",
+      "data": {
+        "fileMetadataId": "e9a5cc7a-2e2e-471f-9728-c46892f6bec1",
+        "fileMimeType": "image/jpeg",
+        "fileName": "001_ChatGPT_Image_22_36_06_30_thg_t_o_video_nh_n_v_t_n_y_tr_ng_t_20260308_221411_678976_last_001.jpg",
+        "fileUri": "users/38ec0711-58ae-443a-a14c-9ebac8565694/e9a5cc7a-2e2e-471f-9728-c46892f6bec1/content",
+        "parsedFileUri": "",
+        "createTime": "2026-03-08T15:28:41.063577Z",
+        "fileSource": "SELF_UPLOAD_FILE_SOURCE"
+      }
+    }
+  },
+  {
+    "ts": "2026-03-08T22:28:42",
+    "kind": "image_to_video_create_post",
+    "jobIndex": 0,
+    "request": {
+      "endpoint": "https://grok.com/rest/media/post/create",
+      "payload": {
+        "mediaType": "MEDIA_POST_TYPE_IMAGE",
+        "mediaUrl": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/e9a5cc7a-2e2e-471f-9728-c46892f6bec1/content"
+      },
+      "headers": {
+        "x-statsig-id": "ZTpUeXBlRXJyb3I6IENhbm5vdCByZWFkIHByb3BlcnRpZXMgb2YgdW5kZWZpbmVkIChyZWFkaW5nICdjaGlsZE5vZGVzJyk="
+      }
+    },
+    "response": {
+      "status": 200,
+      "error": null,
+      "postId": "e9a5cc7a-2e2e-471f-9728-c46892f6bec1",
+      "mediaUrl": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/e9a5cc7a-2e2e-471f-9728-c46892f6bec1/content",
+      "data": {
+        "post": {
+          "id": "e9a5cc7a-2e2e-471f-9728-c46892f6bec1",
+          "userId": "38ec0711-58ae-443a-a14c-9ebac8565694",
+          "createTime": "2026-03-08T15:28:41.529253357Z",
+          "prompt": "",
+          "mediaType": "MEDIA_POST_TYPE_IMAGE",
+          "mediaUrl": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/e9a5cc7a-2e2e-471f-9728-c46892f6bec1/content",
+          "mimeType": "image/jpeg",
+          "audioUrls": [],
+          "childPosts": [],
+          "originalPrompt": "",
+          "resolution": {
+            "width": 928,
+            "height": 1376
+          },
+          "availableActions": [],
+          "images": [
+            {
+              "id": "e9a5cc7a-2e2e-471f-9728-c46892f6bec1",
+              "userId": "38ec0711-58ae-443a-a14c-9ebac8565694",
+              "createTime": "2026-03-08T15:28:41.529253357Z",
+              "prompt": "",
+              "mediaType": "MEDIA_POST_TYPE_IMAGE",
+              "mediaUrl": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/e9a5cc7a-2e2e-471f-9728-c46892f6bec1/content",
+              "mimeType": "image/jpeg",
+              "audioUrls": [],
+              "childPosts": [],
+              "originalPrompt": "",
+              "resolution": {
+                "width": 928,
+                "height": 1376
+              },
+              "availableActions": [],
+              "images": [],
+              "videos": [],
+              "inputMediaItems": []
+            }
+          ],
+          "videos": [],
+          "inputMediaItems": []
+        }
+      }
+    }
+  },
+  {
+    "ts": "2026-03-08T22:29:07",
+    "kind": "image_to_video_conversation_new",
+    "jobIndex": 0,
+    "prompt": "pose dáng cơ bắp",
+    "request": {
+      "endpoint": "https://grok.com/rest/app-chat/conversations/new",
+      "temporary": true,
+      "modelName": "grok-3",
+      "message": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/e9a5cc7a-2e2e-471f-9728-c46892f6bec1/content  pose dáng cơ bắp",
+      "fileAttachments": [
+        "e9a5cc7a-2e2e-471f-9728-c46892f6bec1"
+      ],
+      "toolOverrides": {
+        "videoGen": true
+      },
+      "enableSideBySide": true,
+      "responseMetadata": {
+        "experiments": [],
+        "modelConfigOverride": {
+          "modelMap": {
+            "videoGenModelConfig": {
+              "parentPostId": "e9a5cc7a-2e2e-471f-9728-c46892f6bec1",
+              "aspectRatio": "9:16",
+              "videoLength": 6,
+              "resolutionName": "480p",
+              "isVideoEdit": false
+            }
+          }
+        }
+      }
+    },
+    "response": {
+      "status": 200,
+      "error": null,
+      "lastEvent": {
+        "progress": 100,
+        "videoUrl": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/generated/b24eeb34-92ba-4195-a48b-05a510ca1a88/generated_video.mp4",
+        "videoId": "b24eeb34-92ba-4195-a48b-05a510ca1a88",
+        "parentPostId": "e9a5cc7a-2e2e-471f-9728-c46892f6bec1",
+        "resolutionName": "480p",
+        "imageReference": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/e9a5cc7a-2e2e-471f-9728-c46892f6bec1/content?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1c2Vycy8zOGVjMDcxMS01OGFlLTQ0M2EtYTE0Yy05ZWJhYzg1NjU2OTQvZTlhNWNjN2EtMmUyZS00NzFmLTk3MjgtYzQ2ODkyZjZiZWMxL2NvbnRlbnQiLCJleHAiOjE3NzI5ODQ2MjIsImlhdCI6MTc3Mjk4MzcyMn0.jpeuyWVoEN1lrQSYqE2G8ytxbqQACqWsltUYHSuljuY"
+      },
+      "userId": "38ec0711-58ae-443a-a14c-9ebac8565694",
+      "generatedId": "b24eeb34-92ba-4195-a48b-05a510ca1a88",
+      "directVideoUrl": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/generated/b24eeb34-92ba-4195-a48b-05a510ca1a88/generated_video.mp4?cache=1&dl=1",
+      "hdVideoUrlCandidate": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/generated/b24eeb34-92ba-4195-a48b-05a510ca1a88/generated_video_hd.mp4?cache=1&dl=1"
+    }
+  },
+  {
+    "ts": "2026-03-08T22:29:14",
+    "kind": "image_to_video_upscale",
+    "jobIndex": 0,
+    "request": {
+      "endpoint": "https://grok.com/rest/media/video/upscale",
+      "payload": {
+        "videoId": "b24eeb34-92ba-4195-a48b-05a510ca1a88"
+      },
+      "headers": {
+        "x-statsig-id": "ZTpUeXBlRXJyb3I6IENhbm5vdCByZWFkIHByb3BlcnRpZXMgb2YgdW5kZWZpbmVkIChyZWFkaW5nICdjaGlsZE5vZGVzJyk="
+      },
+      "maxRetries": 3
+    },
+    "response": {
+      "status": 200,
+      "error": null,
+      "attempt": 1,
+      "hdMediaUrl": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/generated/b24eeb34-92ba-4195-a48b-05a510ca1a88/generated_video_hd.mp4",
+      "data": {
+        "hdMediaUrl": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/generated/b24eeb34-92ba-4195-a48b-05a510ca1a88/generated_video_hd.mp4"
+      }
+    }
+  },
+  {
+    "ts": "2026-03-08T22:31:36",
+    "kind": "image_to_video_upload_image",
+    "request": {
+      "endpoint": "https://grok.com/rest/app-chat/upload-file",
+      "payload": {
+        "fileName": "001_ChatGPT_Image_22_36_06_30_thg_t_o_video_nh_n_v_t_n_y_tr_ng_t_20260308_221411_678976_last_001.jpg",
+        "fileMimeType": "image/jpeg",
+        "fileSource": "SELF_UPLOAD_FILE_SOURCE",
+        "contentLength": 100152
+      },
+      "headers": {
+        "x-statsig-id": "ZTpUeXBlRXJyb3I6IENhbm5vdCByZWFkIHByb3BlcnRpZXMgb2YgdW5kZWZpbmVkIChyZWFkaW5nICdjaGlsZE5vZGVzJyk="
+      }
+    },
+    "response": {
+      "status": 200,
+      "error": null,
+      "fileMetadataId": "f93bdf6e-e71c-40e8-9e6e-463d0d557932",
+      "fileUri": "users/38ec0711-58ae-443a-a14c-9ebac8565694/f93bdf6e-e71c-40e8-9e6e-463d0d557932/content",
+      "parentPostId": "f93bdf6e-e71c-40e8-9e6e-463d0d557932",
+      "data": {
+        "fileMetadataId": "f93bdf6e-e71c-40e8-9e6e-463d0d557932",
+        "fileMimeType": "image/jpeg",
+        "fileName": "001_ChatGPT_Image_22_36_06_30_thg_t_o_video_nh_n_v_t_n_y_tr_ng_t_20260308_221411_678976_last_001.jpg",
+        "fileUri": "users/38ec0711-58ae-443a-a14c-9ebac8565694/f93bdf6e-e71c-40e8-9e6e-463d0d557932/content",
+        "parsedFileUri": "",
+        "createTime": "2026-03-08T15:31:35.736719Z",
+        "fileSource": "SELF_UPLOAD_FILE_SOURCE"
+      }
+    }
+  },
+  {
+    "ts": "2026-03-08T22:31:37",
+    "kind": "image_to_video_create_post",
+    "jobIndex": 0,
+    "request": {
+      "endpoint": "https://grok.com/rest/media/post/create",
+      "payload": {
+        "mediaType": "MEDIA_POST_TYPE_IMAGE",
+        "mediaUrl": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/f93bdf6e-e71c-40e8-9e6e-463d0d557932/content"
+      },
+      "headers": {
+        "x-statsig-id": "ZTpUeXBlRXJyb3I6IENhbm5vdCByZWFkIHByb3BlcnRpZXMgb2YgdW5kZWZpbmVkIChyZWFkaW5nICdjaGlsZE5vZGVzJyk="
+      }
+    },
+    "response": {
+      "status": 200,
+      "error": null,
+      "postId": "f93bdf6e-e71c-40e8-9e6e-463d0d557932",
+      "mediaUrl": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/f93bdf6e-e71c-40e8-9e6e-463d0d557932/content",
+      "data": {
+        "post": {
+          "id": "f93bdf6e-e71c-40e8-9e6e-463d0d557932",
+          "userId": "38ec0711-58ae-443a-a14c-9ebac8565694",
+          "createTime": "2026-03-08T15:31:36.224299589Z",
+          "prompt": "",
+          "mediaType": "MEDIA_POST_TYPE_IMAGE",
+          "mediaUrl": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/f93bdf6e-e71c-40e8-9e6e-463d0d557932/content",
+          "mimeType": "image/jpeg",
+          "audioUrls": [],
+          "childPosts": [],
+          "originalPrompt": "",
+          "resolution": {
+            "width": 928,
+            "height": 1376
+          },
+          "availableActions": [],
+          "images": [
+            {
+              "id": "f93bdf6e-e71c-40e8-9e6e-463d0d557932",
+              "userId": "38ec0711-58ae-443a-a14c-9ebac8565694",
+              "createTime": "2026-03-08T15:31:36.224299589Z",
+              "prompt": "",
+              "mediaType": "MEDIA_POST_TYPE_IMAGE",
+              "mediaUrl": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/f93bdf6e-e71c-40e8-9e6e-463d0d557932/content",
+              "mimeType": "image/jpeg",
+              "audioUrls": [],
+              "childPosts": [],
+              "originalPrompt": "",
+              "resolution": {
+                "width": 928,
+                "height": 1376
+              },
+              "availableActions": [],
+              "images": [],
+              "videos": [],
+              "inputMediaItems": []
+            }
+          ],
+          "videos": [],
+          "inputMediaItems": []
+        }
+      }
+    }
+  },
+  {
+    "ts": "2026-03-08T22:31:59",
+    "kind": "image_to_video_conversation_new",
+    "jobIndex": 0,
+    "prompt": "pose dáng cơ bắp",
+    "request": {
+      "endpoint": "https://grok.com/rest/app-chat/conversations/new",
+      "temporary": true,
+      "modelName": "grok-3",
+      "message": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/f93bdf6e-e71c-40e8-9e6e-463d0d557932/content  pose dáng cơ bắp",
+      "fileAttachments": [
+        "f93bdf6e-e71c-40e8-9e6e-463d0d557932"
+      ],
+      "toolOverrides": {
+        "videoGen": true
+      },
+      "enableSideBySide": true,
+      "responseMetadata": {
+        "experiments": [],
+        "modelConfigOverride": {
+          "modelMap": {
+            "videoGenModelConfig": {
+              "parentPostId": "f93bdf6e-e71c-40e8-9e6e-463d0d557932",
+              "aspectRatio": "9:16",
+              "videoLength": 6,
+              "resolutionName": "480p",
+              "isVideoEdit": false
+            }
+          }
+        }
+      }
+    },
+    "response": {
+      "status": 200,
+      "error": null,
+      "lastEvent": {
+        "progress": 100,
+        "videoUrl": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/generated/79b8fb29-044a-4864-8ed8-f9bcff597021/generated_video.mp4",
+        "videoId": "79b8fb29-044a-4864-8ed8-f9bcff597021",
+        "parentPostId": "f93bdf6e-e71c-40e8-9e6e-463d0d557932",
+        "resolutionName": "480p",
+        "imageReference": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/f93bdf6e-e71c-40e8-9e6e-463d0d557932/content?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1c2Vycy8zOGVjMDcxMS01OGFlLTQ0M2EtYTE0Yy05ZWJhYzg1NjU2OTQvZjkzYmRmNmUtZTcxYy00MGU4LTllNmUtNDYzZDBkNTU3OTMyL2NvbnRlbnQiLCJleHAiOjE3NzI5ODQ3OTYsImlhdCI6MTc3Mjk4Mzg5Nn0.i1gg9GZ6A8HQBsHaD335ABYWYz1GJw-b2ym5Ebg7mfY"
+      },
+      "userId": "38ec0711-58ae-443a-a14c-9ebac8565694",
+      "generatedId": "79b8fb29-044a-4864-8ed8-f9bcff597021",
+      "directVideoUrl": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/generated/79b8fb29-044a-4864-8ed8-f9bcff597021/generated_video.mp4?cache=1&dl=1",
+      "hdVideoUrlCandidate": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/generated/79b8fb29-044a-4864-8ed8-f9bcff597021/generated_video_hd.mp4?cache=1&dl=1"
+    }
+  },
+  {
+    "ts": "2026-03-08T22:32:06",
+    "kind": "image_to_video_upscale",
+    "jobIndex": 0,
+    "request": {
+      "endpoint": "https://grok.com/rest/media/video/upscale",
+      "payload": {
+        "videoId": "79b8fb29-044a-4864-8ed8-f9bcff597021"
+      },
+      "headers": {
+        "x-statsig-id": "ZTpUeXBlRXJyb3I6IENhbm5vdCByZWFkIHByb3BlcnRpZXMgb2YgdW5kZWZpbmVkIChyZWFkaW5nICdjaGlsZE5vZGVzJyk="
+      },
+      "maxRetries": 3
+    },
+    "response": {
+      "status": 200,
+      "error": null,
+      "attempt": 1,
+      "hdMediaUrl": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/generated/79b8fb29-044a-4864-8ed8-f9bcff597021/generated_video_hd.mp4",
+      "data": {
+        "hdMediaUrl": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/generated/79b8fb29-044a-4864-8ed8-f9bcff597021/generated_video_hd.mp4"
+      }
+    }
+  },
+  {
+    "ts": "2026-03-08T22:34:16",
+    "kind": "image_to_video_upload_image",
+    "request": {
+      "endpoint": "https://grok.com/rest/app-chat/upload-file",
+      "payload": {
+        "fileName": "9ca10dc9-300d-4df0-a513-432b41557e7c.jpg",
+        "fileMimeType": "image/jpeg",
+        "fileSource": "SELF_UPLOAD_FILE_SOURCE",
+        "contentLength": 149048
+      },
+      "headers": {
+        "x-statsig-id": "ZTpUeXBlRXJyb3I6IENhbm5vdCByZWFkIHByb3BlcnRpZXMgb2YgdW5kZWZpbmVkIChyZWFkaW5nICdjaGlsZE5vZGVzJyk="
+      }
+    },
+    "response": {
+      "status": 200,
+      "error": null,
+      "fileMetadataId": "80653c75-425f-49dd-a4e1-d6ccf6ed22ec",
+      "fileUri": "users/38ec0711-58ae-443a-a14c-9ebac8565694/80653c75-425f-49dd-a4e1-d6ccf6ed22ec/content",
+      "parentPostId": "80653c75-425f-49dd-a4e1-d6ccf6ed22ec",
+      "data": {
+        "fileMetadataId": "80653c75-425f-49dd-a4e1-d6ccf6ed22ec",
+        "fileMimeType": "image/jpeg",
+        "fileName": "9ca10dc9-300d-4df0-a513-432b41557e7c.jpg",
+        "fileUri": "users/38ec0711-58ae-443a-a14c-9ebac8565694/80653c75-425f-49dd-a4e1-d6ccf6ed22ec/content",
+        "parsedFileUri": "",
+        "createTime": "2026-03-08T15:34:15.688274Z",
+        "fileSource": "SELF_UPLOAD_FILE_SOURCE"
+      }
+    }
+  },
+  {
+    "ts": "2026-03-08T22:34:16",
+    "kind": "image_to_video_create_post",
+    "jobIndex": 0,
+    "request": {
+      "endpoint": "https://grok.com/rest/media/post/create",
+      "payload": {
+        "mediaType": "MEDIA_POST_TYPE_IMAGE",
+        "mediaUrl": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/80653c75-425f-49dd-a4e1-d6ccf6ed22ec/content"
+      },
+      "headers": {
+        "x-statsig-id": "ZTpUeXBlRXJyb3I6IENhbm5vdCByZWFkIHByb3BlcnRpZXMgb2YgdW5kZWZpbmVkIChyZWFkaW5nICdjaGlsZE5vZGVzJyk="
+      }
+    },
+    "response": {
+      "status": 200,
+      "error": null,
+      "postId": "80653c75-425f-49dd-a4e1-d6ccf6ed22ec",
+      "mediaUrl": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/80653c75-425f-49dd-a4e1-d6ccf6ed22ec/content",
+      "data": {
+        "post": {
+          "id": "80653c75-425f-49dd-a4e1-d6ccf6ed22ec",
+          "userId": "38ec0711-58ae-443a-a14c-9ebac8565694",
+          "createTime": "2026-03-08T15:34:16.059324267Z",
+          "prompt": "",
+          "mediaType": "MEDIA_POST_TYPE_IMAGE",
+          "mediaUrl": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/80653c75-425f-49dd-a4e1-d6ccf6ed22ec/content",
+          "mimeType": "image/jpeg",
+          "audioUrls": [],
+          "childPosts": [],
+          "originalPrompt": "",
+          "resolution": {
+            "width": 1538,
+            "height": 2048
+          },
+          "availableActions": [],
+          "images": [
+            {
+              "id": "80653c75-425f-49dd-a4e1-d6ccf6ed22ec",
+              "userId": "38ec0711-58ae-443a-a14c-9ebac8565694",
+              "createTime": "2026-03-08T15:34:16.059324267Z",
+              "prompt": "",
+              "mediaType": "MEDIA_POST_TYPE_IMAGE",
+              "mediaUrl": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/80653c75-425f-49dd-a4e1-d6ccf6ed22ec/content",
+              "mimeType": "image/jpeg",
+              "audioUrls": [],
+              "childPosts": [],
+              "originalPrompt": "",
+              "resolution": {
+                "width": 1538,
+                "height": 2048
+              },
+              "availableActions": [],
+              "images": [],
+              "videos": [],
+              "inputMediaItems": []
+            }
+          ],
+          "videos": [],
+          "inputMediaItems": []
+        }
+      }
+    }
+  },
+  {
+    "ts": "2026-03-08T22:34:45",
+    "kind": "image_to_video_conversation_new",
+    "jobIndex": 0,
+    "prompt": "tạo video bán hàng cho pin sạc dự phòng này",
+    "request": {
+      "endpoint": "https://grok.com/rest/app-chat/conversations/new",
+      "temporary": true,
+      "modelName": "grok-3",
+      "message": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/80653c75-425f-49dd-a4e1-d6ccf6ed22ec/content  tạo video bán hàng cho pin sạc dự phòng này",
+      "fileAttachments": [
+        "80653c75-425f-49dd-a4e1-d6ccf6ed22ec"
+      ],
+      "toolOverrides": {
+        "videoGen": true
+      },
+      "enableSideBySide": true,
+      "responseMetadata": {
+        "experiments": [],
+        "modelConfigOverride": {
+          "modelMap": {
+            "videoGenModelConfig": {
+              "parentPostId": "80653c75-425f-49dd-a4e1-d6ccf6ed22ec",
+              "aspectRatio": "9:16",
+              "videoLength": 6,
+              "resolutionName": "480p",
+              "isVideoEdit": false
+            }
+          }
+        }
+      }
+    },
+    "response": {
+      "status": 200,
+      "error": null,
+      "lastEvent": {
+        "progress": 100,
+        "videoUrl": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/generated/9520c7e5-1f59-471f-b7d6-5a7a6705fc3d/generated_video.mp4",
+        "videoId": "9520c7e5-1f59-471f-b7d6-5a7a6705fc3d",
+        "parentPostId": "80653c75-425f-49dd-a4e1-d6ccf6ed22ec",
+        "resolutionName": "480p",
+        "imageReference": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/80653c75-425f-49dd-a4e1-d6ccf6ed22ec/content?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1c2Vycy8zOGVjMDcxMS01OGFlLTQ0M2EtYTE0Yy05ZWJhYzg1NjU2OTQvODA2NTNjNzUtNDI1Zi00OWRkLWE0ZTEtZDZjY2Y2ZWQyMmVjL2NvbnRlbnQiLCJleHAiOjE3NzI5ODQ5NTYsImlhdCI6MTc3Mjk4NDA1Nn0.yt5G4-_BZ5cJZIylJluFmY8eO1f5ut75kjr91fHkI1A"
+      },
+      "userId": "38ec0711-58ae-443a-a14c-9ebac8565694",
+      "generatedId": "9520c7e5-1f59-471f-b7d6-5a7a6705fc3d",
+      "directVideoUrl": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/generated/9520c7e5-1f59-471f-b7d6-5a7a6705fc3d/generated_video.mp4?cache=1&dl=1",
+      "hdVideoUrlCandidate": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/generated/9520c7e5-1f59-471f-b7d6-5a7a6705fc3d/generated_video_hd.mp4?cache=1&dl=1"
+    }
+  },
+  {
+    "ts": "2026-03-08T22:34:51",
+    "kind": "image_to_video_upscale",
+    "jobIndex": 0,
+    "request": {
+      "endpoint": "https://grok.com/rest/media/video/upscale",
+      "payload": {
+        "videoId": "9520c7e5-1f59-471f-b7d6-5a7a6705fc3d"
+      },
+      "headers": {
+        "x-statsig-id": "ZTpUeXBlRXJyb3I6IENhbm5vdCByZWFkIHByb3BlcnRpZXMgb2YgdW5kZWZpbmVkIChyZWFkaW5nICdjaGlsZE5vZGVzJyk="
+      },
+      "maxRetries": 3
+    },
+    "response": {
+      "status": 200,
+      "error": null,
+      "attempt": 1,
+      "hdMediaUrl": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/generated/9520c7e5-1f59-471f-b7d6-5a7a6705fc3d/generated_video_hd.mp4",
+      "data": {
+        "hdMediaUrl": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/generated/9520c7e5-1f59-471f-b7d6-5a7a6705fc3d/generated_video_hd.mp4"
+      }
+    }
+  },
+  {
+    "ts": "2026-03-08T22:36:22",
+    "kind": "image_to_video_upload_image",
+    "request": {
+      "endpoint": "https://grok.com/rest/app-chat/upload-file",
+      "payload": {
+        "fileName": "001_9ca10dc9-300d-4df0-a513-432b41_t_o_video_b_n_h_ng_cho_pin_s_c_20260308_223451_930266_last_001.jpg",
+        "fileMimeType": "image/jpeg",
+        "fileSource": "SELF_UPLOAD_FILE_SOURCE",
+        "contentLength": 62252
+      },
+      "headers": {
+        "x-statsig-id": "ZTpUeXBlRXJyb3I6IENhbm5vdCByZWFkIHByb3BlcnRpZXMgb2YgdW5kZWZpbmVkIChyZWFkaW5nICdjaGlsZE5vZGVzJyk="
+      }
+    },
+    "response": {
+      "status": 200,
+      "error": null,
+      "fileMetadataId": "9f6a8059-bc4d-464a-b403-c02d3b3fe0d3",
+      "fileUri": "users/38ec0711-58ae-443a-a14c-9ebac8565694/9f6a8059-bc4d-464a-b403-c02d3b3fe0d3/content",
+      "parentPostId": "9f6a8059-bc4d-464a-b403-c02d3b3fe0d3",
+      "data": {
+        "fileMetadataId": "9f6a8059-bc4d-464a-b403-c02d3b3fe0d3",
+        "fileMimeType": "image/jpeg",
+        "fileName": "001_9ca10dc9-300d-4df0-a513-432b41_t_o_video_b_n_h_ng_cho_pin_s_c_20260308_223451_930266_last_001.jpg",
+        "fileUri": "users/38ec0711-58ae-443a-a14c-9ebac8565694/9f6a8059-bc4d-464a-b403-c02d3b3fe0d3/content",
+        "parsedFileUri": "",
+        "createTime": "2026-03-08T15:36:21.323534Z",
+        "fileSource": "SELF_UPLOAD_FILE_SOURCE"
+      }
+    }
+  },
+  {
+    "ts": "2026-03-08T22:36:22",
+    "kind": "image_to_video_create_post",
+    "jobIndex": 0,
+    "request": {
+      "endpoint": "https://grok.com/rest/media/post/create",
+      "payload": {
+        "mediaType": "MEDIA_POST_TYPE_IMAGE",
+        "mediaUrl": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/9f6a8059-bc4d-464a-b403-c02d3b3fe0d3/content"
+      },
+      "headers": {
+        "x-statsig-id": "ZTpUeXBlRXJyb3I6IENhbm5vdCByZWFkIHByb3BlcnRpZXMgb2YgdW5kZWZpbmVkIChyZWFkaW5nICdjaGlsZE5vZGVzJyk="
+      }
+    },
+    "response": {
+      "status": 200,
+      "error": null,
+      "postId": "9f6a8059-bc4d-464a-b403-c02d3b3fe0d3",
+      "mediaUrl": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/9f6a8059-bc4d-464a-b403-c02d3b3fe0d3/content",
+      "data": {
+        "post": {
+          "id": "9f6a8059-bc4d-464a-b403-c02d3b3fe0d3",
+          "userId": "38ec0711-58ae-443a-a14c-9ebac8565694",
+          "createTime": "2026-03-08T15:36:21.766997895Z",
+          "prompt": "",
+          "mediaType": "MEDIA_POST_TYPE_IMAGE",
+          "mediaUrl": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/9f6a8059-bc4d-464a-b403-c02d3b3fe0d3/content",
+          "mimeType": "image/jpeg",
+          "audioUrls": [],
+          "childPosts": [],
+          "originalPrompt": "",
+          "resolution": {
+            "width": 960,
+            "height": 1280
+          },
+          "availableActions": [],
+          "images": [
+            {
+              "id": "9f6a8059-bc4d-464a-b403-c02d3b3fe0d3",
+              "userId": "38ec0711-58ae-443a-a14c-9ebac8565694",
+              "createTime": "2026-03-08T15:36:21.766997895Z",
+              "prompt": "",
+              "mediaType": "MEDIA_POST_TYPE_IMAGE",
+              "mediaUrl": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/9f6a8059-bc4d-464a-b403-c02d3b3fe0d3/content",
+              "mimeType": "image/jpeg",
+              "audioUrls": [],
+              "childPosts": [],
+              "originalPrompt": "",
+              "resolution": {
+                "width": 960,
+                "height": 1280
+              },
+              "availableActions": [],
+              "images": [],
+              "videos": [],
+              "inputMediaItems": []
+            }
+          ],
+          "videos": [],
+          "inputMediaItems": []
+        }
+      }
+    }
+  },
+  {
+    "ts": "2026-03-08T22:36:48",
+    "kind": "image_to_video_conversation_new",
+    "jobIndex": 0,
+    "prompt": "đây là 1 đoạn kết và hãy dẫn mọi người mua tại phây búc . com nguyễn mạnh hà official",
+    "request": {
+      "endpoint": "https://grok.com/rest/app-chat/conversations/new",
+      "temporary": true,
+      "modelName": "grok-3",
+      "message": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/9f6a8059-bc4d-464a-b403-c02d3b3fe0d3/content  đây là 1 đoạn kết và hãy dẫn mọi người mua tại phây búc . com nguyễn mạnh hà official",
+      "fileAttachments": [
+        "9f6a8059-bc4d-464a-b403-c02d3b3fe0d3"
+      ],
+      "toolOverrides": {
+        "videoGen": true
+      },
+      "enableSideBySide": true,
+      "responseMetadata": {
+        "experiments": [],
+        "modelConfigOverride": {
+          "modelMap": {
+            "videoGenModelConfig": {
+              "parentPostId": "9f6a8059-bc4d-464a-b403-c02d3b3fe0d3",
+              "aspectRatio": "9:16",
+              "videoLength": 6,
+              "resolutionName": "480p",
+              "isVideoEdit": false
+            }
+          }
+        }
+      }
+    },
+    "response": {
+      "status": 200,
+      "error": null,
+      "lastEvent": {
+        "progress": 100,
+        "videoUrl": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/generated/2fc7869c-5c8c-4f03-a1a3-eff43ee90a50/generated_video.mp4",
+        "videoId": "2fc7869c-5c8c-4f03-a1a3-eff43ee90a50",
+        "parentPostId": "9f6a8059-bc4d-464a-b403-c02d3b3fe0d3",
+        "resolutionName": "480p",
+        "imageReference": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/9f6a8059-bc4d-464a-b403-c02d3b3fe0d3/content?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1c2Vycy8zOGVjMDcxMS01OGFlLTQ0M2EtYTE0Yy05ZWJhYzg1NjU2OTQvOWY2YTgwNTktYmM0ZC00NjRhLWI0MDMtYzAyZDNiM2ZlMGQzL2NvbnRlbnQiLCJleHAiOjE3NzI5ODUwODIsImlhdCI6MTc3Mjk4NDE4Mn0.CYsrjO8qDSB9HNF-P6X35p49DVCGjXEOQ0futD_zw5g"
+      },
+      "userId": "38ec0711-58ae-443a-a14c-9ebac8565694",
+      "generatedId": "2fc7869c-5c8c-4f03-a1a3-eff43ee90a50",
+      "directVideoUrl": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/generated/2fc7869c-5c8c-4f03-a1a3-eff43ee90a50/generated_video.mp4?cache=1&dl=1",
+      "hdVideoUrlCandidate": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/generated/2fc7869c-5c8c-4f03-a1a3-eff43ee90a50/generated_video_hd.mp4?cache=1&dl=1"
+    }
+  },
+  {
+    "ts": "2026-03-08T22:36:56",
+    "kind": "image_to_video_upscale",
+    "jobIndex": 0,
+    "request": {
+      "endpoint": "https://grok.com/rest/media/video/upscale",
+      "payload": {
+        "videoId": "2fc7869c-5c8c-4f03-a1a3-eff43ee90a50"
+      },
+      "headers": {
+        "x-statsig-id": "ZTpUeXBlRXJyb3I6IENhbm5vdCByZWFkIHByb3BlcnRpZXMgb2YgdW5kZWZpbmVkIChyZWFkaW5nICdjaGlsZE5vZGVzJyk="
+      },
+      "maxRetries": 3
+    },
+    "response": {
+      "status": 200,
+      "error": null,
+      "attempt": 1,
+      "hdMediaUrl": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/generated/2fc7869c-5c8c-4f03-a1a3-eff43ee90a50/generated_video_hd.mp4",
+      "data": {
+        "hdMediaUrl": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/generated/2fc7869c-5c8c-4f03-a1a3-eff43ee90a50/generated_video_hd.mp4"
+      }
+    }
+  },
+  {
+    "ts": "2026-03-09T20:15:09",
+    "kind": "image_to_video_upload_image",
+    "request": {
+      "endpoint": "https://grok.com/rest/app-chat/upload-file",
+      "payload": {
+        "fileName": "001_001_9ca10dc9-300d-4df0-a513-43_y_l_1_o_n_k_t_v_h_y_d_n_m_20260308_223657_132312_last_001.jpg",
+        "fileMimeType": "image/jpeg",
+        "fileSource": "SELF_UPLOAD_FILE_SOURCE",
+        "contentLength": 91608
+      },
+      "headers": {
+        "x-statsig-id": "ZTpUeXBlRXJyb3I6IENhbm5vdCByZWFkIHByb3BlcnRpZXMgb2YgdW5kZWZpbmVkIChyZWFkaW5nICdjaGlsZE5vZGVzJyk="
+      }
+    },
+    "response": {
+      "status": 200,
+      "error": null,
+      "fileMetadataId": "cfd9fda4-25fa-4c70-9468-17d848b32e6d",
+      "fileUri": "users/38ec0711-58ae-443a-a14c-9ebac8565694/cfd9fda4-25fa-4c70-9468-17d848b32e6d/content",
+      "parentPostId": "cfd9fda4-25fa-4c70-9468-17d848b32e6d",
+      "data": {
+        "fileMetadataId": "cfd9fda4-25fa-4c70-9468-17d848b32e6d",
+        "fileMimeType": "image/jpeg",
+        "fileName": "001_001_9ca10dc9-300d-4df0-a513-43_y_l_1_o_n_k_t_v_h_y_d_n_m_20260308_223657_132312_last_001.jpg",
+        "fileUri": "users/38ec0711-58ae-443a-a14c-9ebac8565694/cfd9fda4-25fa-4c70-9468-17d848b32e6d/content",
+        "parsedFileUri": "",
+        "createTime": "2026-03-09T13:15:09.771034Z",
+        "fileSource": "SELF_UPLOAD_FILE_SOURCE"
+      }
+    }
+  },
+  {
+    "ts": "2026-03-09T20:15:10",
+    "kind": "image_to_video_create_post",
+    "jobIndex": 0,
+    "request": {
+      "endpoint": "https://grok.com/rest/media/post/create",
+      "payload": {
+        "mediaType": "MEDIA_POST_TYPE_IMAGE",
+        "mediaUrl": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/cfd9fda4-25fa-4c70-9468-17d848b32e6d/content"
+      },
+      "headers": {
+        "x-statsig-id": "ZTpUeXBlRXJyb3I6IENhbm5vdCByZWFkIHByb3BlcnRpZXMgb2YgdW5kZWZpbmVkIChyZWFkaW5nICdjaGlsZE5vZGVzJyk="
+      }
+    },
+    "response": {
+      "status": 200,
+      "error": null,
+      "postId": "cfd9fda4-25fa-4c70-9468-17d848b32e6d",
+      "mediaUrl": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/cfd9fda4-25fa-4c70-9468-17d848b32e6d/content",
+      "data": {
+        "post": {
+          "id": "cfd9fda4-25fa-4c70-9468-17d848b32e6d",
+          "userId": "38ec0711-58ae-443a-a14c-9ebac8565694",
+          "createTime": "2026-03-09T13:15:10.297253032Z",
+          "prompt": "",
+          "mediaType": "MEDIA_POST_TYPE_IMAGE",
+          "mediaUrl": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/cfd9fda4-25fa-4c70-9468-17d848b32e6d/content",
+          "mimeType": "image/jpeg",
+          "audioUrls": [],
+          "childPosts": [],
+          "originalPrompt": "",
+          "resolution": {
+            "width": 960,
+            "height": 1280
+          },
+          "availableActions": [],
+          "images": [
+            {
+              "id": "cfd9fda4-25fa-4c70-9468-17d848b32e6d",
+              "userId": "38ec0711-58ae-443a-a14c-9ebac8565694",
+              "createTime": "2026-03-09T13:15:10.297253032Z",
+              "prompt": "",
+              "mediaType": "MEDIA_POST_TYPE_IMAGE",
+              "mediaUrl": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/cfd9fda4-25fa-4c70-9468-17d848b32e6d/content",
+              "mimeType": "image/jpeg",
+              "audioUrls": [],
+              "childPosts": [],
+              "originalPrompt": "",
+              "resolution": {
+                "width": 960,
+                "height": 1280
+              },
+              "availableActions": [],
+              "images": [],
+              "videos": [],
+              "inputMediaItems": []
+            }
+          ],
+          "videos": [],
+          "inputMediaItems": []
+        }
+      }
+    }
+  },
+  {
+    "ts": "2026-03-09T20:15:39",
+    "kind": "image_to_video_conversation_new",
+    "jobIndex": 0,
+    "prompt": "nhầm rồi, bạn nghĩ đây là sản phẩm tốt nhất sao, bọn tôi còn thứ mạnh mẽ hơn nữa",
+    "request": {
+      "endpoint": "https://grok.com/rest/app-chat/conversations/new",
+      "temporary": true,
+      "modelName": "grok-3",
+      "message": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/cfd9fda4-25fa-4c70-9468-17d848b32e6d/content  nhầm rồi, bạn nghĩ đây là sản phẩm tốt nhất sao, bọn tôi còn thứ mạnh mẽ hơn nữa",
+      "fileAttachments": [
+        "cfd9fda4-25fa-4c70-9468-17d848b32e6d"
+      ],
+      "toolOverrides": {
+        "videoGen": true
+      },
+      "enableSideBySide": true,
+      "responseMetadata": {
+        "experiments": [],
+        "modelConfigOverride": {
+          "modelMap": {
+            "videoGenModelConfig": {
+              "parentPostId": "cfd9fda4-25fa-4c70-9468-17d848b32e6d",
+              "aspectRatio": "9:16",
+              "videoLength": 6,
+              "resolutionName": "480p",
+              "isVideoEdit": false
+            }
+          }
+        }
+      }
+    },
+    "response": {
+      "status": 200,
+      "error": null,
+      "lastEvent": {
+        "progress": 100,
+        "videoUrl": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/generated/4fece825-a4db-40bf-b90a-35ca6c5b8011/generated_video.mp4",
+        "videoId": "4fece825-a4db-40bf-b90a-35ca6c5b8011",
+        "parentPostId": "cfd9fda4-25fa-4c70-9468-17d848b32e6d",
+        "resolutionName": "480p",
+        "imageReference": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/cfd9fda4-25fa-4c70-9468-17d848b32e6d/content"
+      },
+      "userId": "38ec0711-58ae-443a-a14c-9ebac8565694",
+      "generatedId": "4fece825-a4db-40bf-b90a-35ca6c5b8011",
+      "directVideoUrl": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/generated/4fece825-a4db-40bf-b90a-35ca6c5b8011/generated_video.mp4?cache=1&dl=1",
+      "hdVideoUrlCandidate": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/generated/4fece825-a4db-40bf-b90a-35ca6c5b8011/generated_video_hd.mp4?cache=1&dl=1"
+    }
+  },
+  {
+    "ts": "2026-03-09T20:15:46",
+    "kind": "image_to_video_upscale",
+    "jobIndex": 0,
+    "request": {
+      "endpoint": "https://grok.com/rest/media/video/upscale",
+      "payload": {
+        "videoId": "4fece825-a4db-40bf-b90a-35ca6c5b8011"
+      },
+      "headers": {
+        "x-statsig-id": "ZTpUeXBlRXJyb3I6IENhbm5vdCByZWFkIHByb3BlcnRpZXMgb2YgdW5kZWZpbmVkIChyZWFkaW5nICdjaGlsZE5vZGVzJyk="
+      },
+      "maxRetries": 3
+    },
+    "response": {
+      "status": 200,
+      "error": null,
+      "attempt": 1,
+      "hdMediaUrl": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/generated/4fece825-a4db-40bf-b90a-35ca6c5b8011/generated_video_hd.mp4",
+      "data": {
+        "hdMediaUrl": "https://assets.grok.com/users/38ec0711-58ae-443a-a14c-9ebac8565694/generated/4fece825-a4db-40bf-b90a-35ca6c5b8011/generated_video_hd.mp4"
+      }
+    }
+  }
+]
